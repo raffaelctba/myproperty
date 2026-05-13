@@ -13,7 +13,7 @@ A complete, production-ready, full-stack Property Management System designed for
 - Apache Kafka (event-driven messaging)
 - WebSockets (real-time communication)
 - OAuth2/OpenID Connect with Keycloak
-- REST + GraphQL APIs
+- REST + GraphQL APIs 
 
 **Frontend:**
 - Angular 21 with standalone components
