@@ -1,0 +1,17 @@
+.git
+.gitignore
+**/.idea
+**/.vscode
+**/node_modules
+**/dist
+**/target
+/out
+**/.DS_Store
+**/coverage
+*.log
+Dockerfile*
+!Dockerfile
+frontend/.angular
+backend/.mvn
+
+
